@@ -1,0 +1,8 @@
+# build artifacts
+build/
+
+# LibreLane output
+librelane/runs/
+
+# MacOS files
+.DS_Store

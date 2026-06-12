@@ -1,0 +1,13 @@
+{
+    "DESIGN_NAME": "top",
+    "VERILOG_FILES": [
+        "dir::../rtl/top.v",
+        "dir::../rtl/fifo.v",
+        "dir::../rtl/parity_checker.v"
+    ],
+    "VERILOG_INCLUDE_DIRS": [
+        "dir::../rtl/include"
+    ],
+    "CLOCK_PERIOD": 20,
+    "CLOCK_PORT": "clk"
+}
