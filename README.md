@@ -12,7 +12,8 @@ This repository contains the following directories.
 ├── librelane   # LibreLane config and output
 ├── rtl         # RTL sources files (.v and .vh)
 ├── scripts     # flow scripts
-└── sim         # testbenches
+├── sim         # testbenches
+└── target      # files for FPGA prototyping
 ```
 ## Usage
 The following Makefile targets are available. 
